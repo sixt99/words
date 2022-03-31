@@ -73,14 +73,7 @@
          $("input.remove").on("click", remove);
          
          function getInputFromTextBox() {
-       	     // var input = document.getElementById("userInput").value;
-	         try {
-	        	 var txtFile =new File('/wordslist', );
-	        	  txtFile.writeln(output);
-	        	  txtFile.close();
-				} catch(err) {
-				  alert(err.message);
-				}
+       	    alert('ep');
        	 }
       </script>
    </body>
