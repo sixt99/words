@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(255, 128, 128);
+	text-align: center;
+	font-family: Helvetica;
+	margin: 100px;
+}
+
+#answer{
+	max-width:300px;
+}
